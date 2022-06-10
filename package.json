@@ -1,0 +1,6 @@
+{
+  "name": "back-to-the1992",
+  "dependencies": {
+    "@b2ns/libshell": "^1.2.0"
+  }
+}

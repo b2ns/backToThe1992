@@ -1,0 +1,14 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@b2ns/libshell': ^1.2.0
+
+dependencies:
+  '@b2ns/libshell': 1.2.0
+
+packages:
+
+  /@b2ns/libshell/1.2.0:
+    resolution: {integrity: sha512-RQOQqoK7iiFK6TaJUKJ0ZYGRqLtzkE0Aut9Z9aMLg2M8x8BNm4t3S4wYb+2rmgHPomPV6qM66EByIvtSNX7jkA==}
+    hasBin: true
+    dev: false
